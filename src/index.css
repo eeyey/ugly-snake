@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background: #578a34;
+}
+
+#snake-game {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
